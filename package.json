@@ -1,0 +1,12 @@
+{
+  "name": "product-manager",
+  "version": "1.0.0",
+  "description": "SPA con localStorage + JSON Server",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000",
+    "dev": "npx live-server --port=5500"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
