@@ -5,6 +5,12 @@
       "name": "computadora",
       "price": 200,
       "desc": "super producto"
+    },
+    {
+      "id": "1780063885683-354",
+      "name": "sdfda",
+      "price": 12,
+      "desc": "|12"
     }
   ]
 }
